@@ -1,13 +1,13 @@
-game_type,home_team,away_team,home_odds,draw_odds,away_odds
-N2 • Group Ouest • J1,Panthères de Rennes,Caen Floorball,5.10,3.50,1.20
-N3 • Group Est • J2,Team Alpha,Team Beta,2.75,3.00,2.10
-N1 • Group Nord • J5,Ice Warriors,Glacier Sharks,4.20,2.80,1.90
-N4 • Group West • J3,Sunset Eagles,River Hawks,3.50,3.20,2.40
-N2 • Group South • J6,Thunderbolts,Storm Breakers,2.60,3.10,2.70
-N3 • Group Central • J4,Raging Bulls,Wild Tigers,2.95,3.25,2.00
-N1 • Group East • J7,Mighty Bears,Steel Panthers,3.80,3.00,2.15
-N2 • Group West • J1,Silver Falcons,Golden Eagles,2.50,3.20,2.90
-N3 • Group North • J8,Blue Whales,Sea Lions,2.80,3.40,2.35
-N1 • Group South • J2,Red Wolves,Green Dragons,3.25,3.05,2.25
-N4 • Group East • J3,Flying Foxes,Night Owls,4.10,2.90,1.80
-N2 • Group Central • J9,Mountain Lions,Desert Scorpions,3.30,3.10,2.05
+home_team,away_team,game_type,home_odds,draw_odds,away_odds,bet_option_1,bet_option_1_odds,bet_option_2,bet_option_2_odds,bet_option_3,bet_option_3_odds
+Panthères de Rennes,Caen Floorball,N2 Ouest,5.10,3.50,1.20,First Half Over 1.5,2.75,First Team to Score,1.85,Over 2.5 Goals,1.95
+Lille,Paris SG,Ligue 1,3.60,3.00,2.10,First Half Under 1.5,1.95,Both Teams to Score,1.80,Under 2.5 Goals,2.10
+Barcelona,Real Madrid,La Liga,2.50,3.30,2.70,First Half Over 1.5,2.00,Total Corners Over 9.5,1.90,Red Card in Match,3.50
+Juventus,AC Milan,Serie A,2.80,3.00,2.50,Penalty Awarded,3.00,First Goal by Juventus,2.50,Own Goal,7.00
+Chelsea,Manchester City,Premier League,3.20,3.40,2.30,First Half Draw,2.10,Over 10.5 Corners,2.05,Extra Time Required,6.50
+Bayern Munich,Dortmund,Bundesliga,1.80,3.90,4.10,Total Goals Over 3.5,1.95,First Half Over 1.5,2.20,Both Teams to Score,1.70
+PSG,Lyon,Ligue 1,1.90,3.60,4.00,First Team to Score - PSG,1.60,More than 4.5 Yellow Cards,2.75,No Goals in First Half,3.50
+Inter Milan,Roma,Serie A,2.50,3.10,2.90,First Goal by Roma,3.00,Under 2.5 Goals,2.20,First Half Draw,2.00
+Liverpool,Manchester United,Premier League,2.40,3.20,2.70,Both Teams to Score,1.80,First Goal by Man Utd,2.90,Total Goals Even,2.05
+Celtic,Rangers,Scottish Premiership,2.30,3.20,3.00,Penalty Awarded,3.25,First Half Over 1.5,2.05,First Goal by Rangers,2.80
+Porto,Benfica,Primeira Liga,2.10,3.10,3.30,Under 2.5 Goals,1.80,Total Yellow Cards Over 5.5,2.50,First Team to Score - Benfica,2.00
+Ajax,Feyenoord,Eredivisie,1.95,3.40,3.80,Total Goals Over 2.5,1.65,Both Teams to Score,1.70,First Goal by Ajax,1.90
