@@ -50,21 +50,6 @@
                     "odds": 1.65
                 },
                 {
-                    "bet_type": "Final Outcome",
-                    "description": "Home Win",
-                    "odds": 1.85
-                },
-                {
-                    "bet_type": "Final Outcome",
-                    "description": "Draw",
-                    "odds": 4.00
-                },
-                {
-                    "bet_type": "Final Outcome",
-                    "description": "Away Win",
-                    "odds": 2.10
-                },
-                {
                     "bet_type": "Double Chance",
                     "subtype": "Home Win or Draw",
                     "odds": 1.35
