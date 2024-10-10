@@ -6,7 +6,7 @@
             "away_team": "Montreal Canadiens",
             "game_type": "NHL",
             "date": "dd-mm-yyyy",
-            "bet_category": "Result", 
+            "bet_category": "Result",
             "odds": {
                 "Final Result": {
                     "home_win": 1.85,
