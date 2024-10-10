@@ -65,7 +65,7 @@
                 { "bet_category": "Exact Score", "subtype": "4 - 7", "odds": 12.00 },
                 { "bet_category": "Exact Score", "subtype": "5 - 7", "odds": 15.00 },
                 { "bet_category": "Exact Score", "subtype": "6 - 7", "odds": 12.00 },
-                { "bet_category": "Exact Score", "subtype": "7 - 7", "odds": 15.00 },
+                { "bet_category": "Exact Score", "subtype": "7 - 7", "odds": 15.00 }
             ]
         }
     ]
