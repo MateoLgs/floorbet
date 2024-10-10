@@ -2,83 +2,31 @@
     "games": [
         {
             "game_id": 1,
-            "home_team": "Team Home",
-            "away_team": "Team Away",
+            "home_team": "Toronto Maple Leafs",
+            "away_team": "Montreal Canadiens",
             "game_type": "NHL",
             "date": "dd-mm-yyyy",
             "odds": {
-                "home_win": 1.85,
-                "draw": 4.05,
-                "away_win": 2.10
+                "Final Result": {
+                    "home_win": 1.85,
+                    "draw": 4.05,
+                    "away_win": 2.10
+                }
             },
             "bets": [
-                {
-                    "bet_type": "Total Goals",
-                    "subtype": "Over 5.5",
-                    "odds": 1.95
-                },
-                {
-                    "bet_type": "Total Goals",
-                    "subtype": "Under 5.5",
-                    "odds": 1.85
-                },
-                {
-                    "bet_type": "Team Goals",
-                    "team": "Toronto Maple Leafs",
-                    "subtype": "Over 2.5",
-                    "odds": 1.75
-                },
-                {
-                    "bet_type": "Team Goals",
-                    "team": "Montreal Canadiens",
-                    "subtype": "Over 2.5",
-                    "odds": 1.90
-                },
-                {
-                    "bet_type": "BTTS",
-                    "description": "Both Teams To Score",
-                    "odds": 1.60
-                },
-                {
-                    "bet_type": "Spread",
-                    "subtype": "Toronto Maple Leafs -1.5",
-                    "odds": 2.25
-                },
-                {
-                    "bet_type": "Spread",
-                    "subtype": "Montreal Canadiens +1.5",
-                    "odds": 1.65
-                },
-                {
-                    "bet_type": "Double Chance",
-                    "subtype": "Home Win or Draw",
-                    "odds": 1.35
-                },
-                {
-                    "bet_type": "Double Chance",
-                    "subtype": "Draw or Away Win",
-                    "odds": 1.60
-                },
-                {
-                    "bet_type": "Double Chance",
-                    "subtype": "Home Win or Away Win",
-                    "odds": 1.30
-                },
-                {
-                    "bet_type": "Exact Score",
-                    "subtype": "Toronto Maple Leafs 3 - 2 Montreal Canadiens",
-                    "odds": 12.00
-                },
-                {
-                    "bet_type": "Exact Score",
-                    "subtype": "Toronto Maple Leafs 4 - 1 Montreal Canadiens",
-                    "odds": 15.00
-                },
-                {
-                    "bet_type": "Exact Score",
-                    "subtype": "Toronto Maple Leafs 2 - 3 Montreal Canadiens",
-                    "odds": 14.00
-                }
+                { "bet_category": "Total Goals", "subtype": "Over 5.5", "odds": 1.95 },
+                { "bet_category": "Total Goals", "subtype": "Under 5.5", "odds": 1.85 },
+                { "bet_category": "Team Goals", "team": "home_team", "subtype": "Over 2.5", "odds": 1.75 },
+                { "bet_category": "Team Goals", "team": "away_team", "subtype": "Over 2.5", "odds": 1.90 },
+                { "bet_category": "Both Teams To Score", "description": "Both Teams To Score", "odds": 1.60 },
+                { "bet_category": "Spread", "team": "home_team", "subtype": "-1.5", "odds": 2.25 },
+                { "bet_category": "Spread", "team": "away_team", "subtype": "+1.5", "odds": 1.65 },
+                { "bet_category": "Double Chance", "subtype": "Home Win or Draw", "odds": 1.35 },
+                { "bet_category": "Double Chance", "subtype": "Draw or Away Win", "odds": 1.60 },
+                { "bet_category": "Double Chance", "subtype": "Home Win or Away Win", "odds": 1.30 },
+                { "bet_category": "Exact Score", "subtype": "3 - 2", "odds": 12.00 },
+                { "bet_category": "Exact Score", "subtype": "4 - 1", "odds": 15.00 },
+                { "bet_category": "Exact Score", "subtype": "2 - 3", "odds": 14.00 }
             ]
         }
     ]
