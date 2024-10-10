@@ -25,9 +25,9 @@
                 { "bet_category": "Double Chance", "subtype": "Home or Draw", "odds": 1.35 },
                 { "bet_category": "Double Chance", "subtype": "Draw or Away", "odds": 1.60 },
                 { "bet_category": "Double Chance", "subtype": "Home or Away", "odds": 1.30 },
-                { "bet_category": "Exact Score", "subtype": "3 - 2", "odds": 12.00 },
-                { "bet_category": "Exact Score", "subtype": "4 - 1", "odds": 15.00 },
-                { "bet_category": "Exact Score", "subtype": "2 - 3", "odds": 14.00 }
+                { "bet_category": "Exact Score", "subtype": "Home 3 - 2 Away", "odds": 12.00 },
+                { "bet_category": "Exact Score", "subtype": "Home 4 - 1 Away", "odds": 15.00 },
+                { "bet_category": "Exact Score", "subtype": "Home 2 - 3 Away", "odds": 14.00 }
             ]
         }
     ]
