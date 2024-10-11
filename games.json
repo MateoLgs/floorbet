@@ -18,6 +18,9 @@
 { "bet_category": "Double Chance", "subtype": "Home or Draw", "odds": 1.35 },
 { "bet_category": "Double Chance", "subtype": "Draw or Away", "odds": 1.60 },
 { "bet_category": "Double Chance", "subtype": "Home or Away", "odds": 1.30 },
+
+{ "bet_category": "Both Teams To Score", "subtype": "Yes", "odds": 1.60 },
+{ "bet_category": "Both Teams To Score", "subtype": "No", "odds": 2.10 },
                 
 { "bet_category": "Total Goals", "subtype": "Over 0.5", "odds": 1.05 },
 { "bet_category": "Total Goals", "subtype": "Over 1.5", "odds": 1.20 },
@@ -110,11 +113,10 @@
 { "bet_category": "Team Goals", "team": "away_team", "subtype": "Under 4.5", "odds": 1.95 },
 { "bet_category": "Team Goals", "team": "away_team", "subtype": "Under 5.5", "odds": 1.75 },
 { "bet_category": "Team Goals", "team": "away_team", "subtype": "Under 6.5", "odds": 1.65 },
-{ "bet_category": "Team Goals", "team": "away_team", "subtype": "Under 7.5", "odds": 1.55 },
-{ "bet_category": "Team Goals", "team": "away_team", "subtype": "Under 8.5", "odds
+{ "bet_category": "Team Goals", "team": "away_team", "subtype": "Under 7.5", "odds": 1.55 },,
+{ "bet_category": "Team Goals", "team": "away_team", "subtype": "Under 8.5", "odds": 1.65 },
+{ "bet_category": "Team Goals", "team": "away_team", "subtype": "Under 9.5", "odds": 1.55 },
 
-                { "bet_category": "Both Teams To Score", "subtype": "Yes", "odds": 1.60 },
-                { "bet_category": "Both Teams To Score", "subtype": "No", "odds": 2.10 },
 // Spreads for home_team
 { "bet_category": "Spread", "team": "home_team", "subtype": "-4.5", "odds": 4.50 },
 { "bet_category": "Spread", "team": "home_team", "subtype": "-3.5", "odds": 3.80 },
