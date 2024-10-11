@@ -33,7 +33,7 @@
 { "bet_category": "Total Goals", "subtype": "Over 11.5", "odds": 3.30 },
 { "bet_category": "Total Goals", "subtype": "Over 12.5", "odds": 3.60 },
 { "bet_category": "Total Goals", "subtype": "Over 13.5", "odds": 3.90 },
-{ "bet_category": "Total Goals", "subtype": "Over 14.5", "odds": 4.20 }
+{ "bet_category": "Total Goals", "subtype": "Over 14.5", "odds": 4.20 },
 
 { "bet_category": "Total Goals", "subtype": "Over 0.5", "odds": 1.05 },
 { "bet_category": "Total Goals", "subtype": "Under 0.5", "odds": 8.00 },
@@ -64,7 +64,7 @@
 { "bet_category": "Total Goals", "subtype": "Over 13.5", "odds": 3.90 },
 { "bet_category": "Total Goals", "subtype": "Under 13.5", "odds": 1.45 },
 { "bet_category": "Total Goals", "subtype": "Over 14.5", "odds": 4.20 },
-{ "bet_category": "Total Goals", "subtype": "Under 14.5", "odds": 1.40 }
+{ "bet_category": "Total Goals", "subtype": "Under 14.5", "odds": 1.40 },
 
 // Over for home_team
 { "bet_category": "Team Goals", "team": "home_team", "subtype": "Over 0.5", "odds": 1.10 },
